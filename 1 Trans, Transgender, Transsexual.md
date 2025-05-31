@@ -1,0 +1,5 @@
+[[1.0.1 Feminist Theory 101 - Caliban and The Witch]]
+[[1.0.2 Feminist Theory 102 - A Short History of Trans Misogyny]]
+[[1.1 Whipping Girl - Why Transsexual]]
+[[1.2 Lucretian Nature is a Transsexual Woman]]
+[[1.3 Incarnated Happiness]]
