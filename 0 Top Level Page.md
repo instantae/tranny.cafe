@@ -1,58 +1,60 @@
 # The Daylight Gallery 
 ### *by Kassandra*
 
-[[1 Trans, Transgender, Transsexual]]
+sitemap
 
-[[1.0 Transfeminist Theory - Intro]]
+- [[1 Trans, Transgender, Transsexual]]
 
-[[1.0.1 Transfeminist Theory 101 - Caliban and The Witch]]
+ - [[1.0 Transfeminist Theory - Intro]]
 
-[[1.0.2 Transfeminist Theory 102 - A Short History of Trans Misogyny]]
+  - [[1.0.1 Transfeminist Theory 101 - Caliban and The Witch]]
 
-[[1.1 Whipping Girl - Why We Use Transsexual]]
+  - [[1.0.2 Transfeminist Theory 102 - A Short History of Trans Misogyny]]
 
-[[1.2 Lucretian Nature is a Transsexual Woman]]
+ - [[1.1 Whipping Girl - Why Transsexual]]
 
-[[1.3 Incarnated Happiness]]
+ - [[1.2 Lucretian Nature is a Transsexual Woman]]
 
-
-[[2 The Transsexual What The Fuck]]
-
-[[2.1 When Monsters Speak]]
-
-[[2.1.1 Words to Victor Frankenstein]]
-
-[[2.2 How then, might the Transsexual Read]]
+ - [[1.3 Incarnated Happiness]]
 
 
-[[3 Gender Accelerationism]]
+- [[2 The Transsexual What The Fuck]]
 
-[[3.1 The Spectacle of Disintegration]]
+ - [[2.1 When Monsters Speak]]
 
+  - [[2.1.1 Words to Victor Frankenstein]]
 
-[[4 Visions of A Better World]]
-
-[[4.0 The Death of Nature]]
-
-[[4.1 Solarpunk vs Cyberpunk]]
-
-[[4.2 The Ones Who Walk Away From Omelas]]
+ - [[2.2 How then, might the Transsexual Read]]
 
 
-[[5 Mystiqueer]]
+- [[3 Gender Accelerationism]]
 
-[[5.0 The Poetic]]
-
-[[5.1 The Sacred and The Profane]]
-
-[[5.2 Sacred Sex]]
+ - [[3.1 The Spectacle of Disintegration]]
 
 
-[[99 Mental Health, Mental Wealth]]
+- [[4 Visions of A Better World]]
 
-[[99.0 DBT, BPD, DID, PTSD, ADHD - Why the DSM sucks actually]]
+ - [[4.0 The Death of Nature]]
 
-[[99.1 A Word on Ketamine]]
+ - [[4.1 Solarpunk vs Cyberpunk]]
 
-[[99.2 Lucy in the Sky with Diamonds]]
+ - [[4.2 The Ones Who Walk Away From Omelas]]
+
+
+- [[5 Mystiqueer]]
+
+ - [[5.0 The Poetic]]
+
+ - [[5.1 The Sacred and The Profane]]
+
+ - [[5.2 Sacred Sex]]
+
+
+- [[99 Mental Health, Mental Wealth]]
+
+- [[99.0 DBT, BPD, DID, PTSD, ADHD - Why the DSM sucks actually]]
+
+- [[99.1 A Word on Ketamine]]
+
+- [[99.2 Lucy in the Sky with Diamonds]]
 
