@@ -1,3 +1,9 @@
+---
+title: 1 Trans, Transgender, Transsexual
+author: Kassandra
+date: 31.5.2025 CE
+date_edited: 31.5.2025 CE
+---
 ## What is patriarchy? What is cissexism? Why do words matter so much? What makes identities important? 
 
 
