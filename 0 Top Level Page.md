@@ -1,6 +1,7 @@
 [[1 Trans, Transgender, Transsexual]]
-[[1.0.1 Feminist Theory 101 - Caliban and The Witch]]
-[[1.0.2 Feminist Theory 102 - A Short History of Trans Misogyny]]
+[[1.0 Transfeminist Theory - Intro]]
+[[1.0.1 Transfeminist Theory 101 - Caliban and The Witch]]
+[[1.0.2 Transfeminist Theory 102 - A Short History of Trans Misogyny]]
 [[1.1 Whipping Girl - Why Transsexual]]
 [[1.2 Lucretian Nature is a Transsexual Woman]]
 [[1.3 Incarnated Happiness]]
@@ -16,6 +17,7 @@
 [[4 Visions of A Better World]]
 [[4.0 The Death of Nature]]
 [[4.1 Solarpunk vs Cyberpunk]]
+[[4.2 The Ones Who Walk Away From Omelas]]
 
 [[5 Mystiqueer]]
 [[5.0 The Poetic]]
